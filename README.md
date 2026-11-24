@@ -32,7 +32,7 @@ I have a keen interest in Power Electronics, Embedded Systems, Control Systems, 
 ### 1. Automatic Power Factor Correction (APFC) System
 - Developed an automatic power factor correction system for inductive AC loads.
 - Used switched capacitor banks, microcontroller-based monitoring, and relay control.
-- Studied reactive power compensation and power factor improvement.
+- Studied reactive power compensation and power factor improvement.- **GitHub Repository:** [View APFC Project](https://github.com/alimasudali/automatic-power-factor-correction)
 
 ### 2. PID Maze-Solving Autonomous Robot
 - Built an autonomous robot using Arduino and IR sensors.
